@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Viespa/Viespa/output/snake.svg" alt="Snake animation" />
+
 
 ###
